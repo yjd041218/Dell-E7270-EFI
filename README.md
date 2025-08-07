@@ -1,0 +1,2 @@
+# Dell-E7270-EFI
+Dell E7270 MacOS 12 EFI
